@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "https://godanny86.github.io/aem-guides-wknd-graphql/static/css/main.f6a87e45.chunk.css",
-    "main.js": "https://godanny86.github.io/aem-guides-wknd-graphql/static/js/main.1cba3ab2.chunk.js",
-    "main.js.map": "https://godanny86.github.io/aem-guides-wknd-graphql/static/js/main.1cba3ab2.chunk.js.map",
+    "main.js": "https://godanny86.github.io/aem-guides-wknd-graphql/static/js/main.68b0b7b2.chunk.js",
+    "main.js.map": "https://godanny86.github.io/aem-guides-wknd-graphql/static/js/main.68b0b7b2.chunk.js.map",
     "runtime-main.js": "https://godanny86.github.io/aem-guides-wknd-graphql/static/js/runtime-main.0b747d6b.js",
     "runtime-main.js.map": "https://godanny86.github.io/aem-guides-wknd-graphql/static/js/runtime-main.0b747d6b.js.map",
     "static/js/2.d743954d.chunk.js": "https://godanny86.github.io/aem-guides-wknd-graphql/static/js/2.d743954d.chunk.js",
     "static/js/2.d743954d.chunk.js.map": "https://godanny86.github.io/aem-guides-wknd-graphql/static/js/2.d743954d.chunk.js.map",
     "index.html": "https://godanny86.github.io/aem-guides-wknd-graphql/index.html",
-    "precache-manifest.3bc13e21b265e1e52dd90f67d4558a18.js": "https://godanny86.github.io/aem-guides-wknd-graphql/precache-manifest.3bc13e21b265e1e52dd90f67d4558a18.js",
+    "precache-manifest.a5c06c6fdc52f9bc621566176e8a0009.js": "https://godanny86.github.io/aem-guides-wknd-graphql/precache-manifest.a5c06c6fdc52f9bc621566176e8a0009.js",
     "service-worker.js": "https://godanny86.github.io/aem-guides-wknd-graphql/service-worker.js",
     "static/css/main.f6a87e45.chunk.css.map": "https://godanny86.github.io/aem-guides-wknd-graphql/static/css/main.f6a87e45.chunk.css.map",
     "static/js/2.d743954d.chunk.js.LICENSE.txt": "https://godanny86.github.io/aem-guides-wknd-graphql/static/js/2.d743954d.chunk.js.LICENSE.txt",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.0b747d6b.js",
     "static/js/2.d743954d.chunk.js",
     "static/css/main.f6a87e45.chunk.css",
-    "static/js/main.1cba3ab2.chunk.js"
+    "static/js/main.68b0b7b2.chunk.js"
   ]
 }
