@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "http://127.0.0.1:8887/static/css/main.f6a87e45.chunk.css",
-    "main.js": "http://127.0.0.1:8887/static/js/main.10c6c85c.chunk.js",
-    "main.js.map": "http://127.0.0.1:8887/static/js/main.10c6c85c.chunk.js.map",
-    "runtime-main.js": "http://127.0.0.1:8887/static/js/runtime-main.a9f5eb71.js",
-    "runtime-main.js.map": "http://127.0.0.1:8887/static/js/runtime-main.a9f5eb71.js.map",
-    "static/js/2.d743954d.chunk.js": "http://127.0.0.1:8887/static/js/2.d743954d.chunk.js",
-    "static/js/2.d743954d.chunk.js.map": "http://127.0.0.1:8887/static/js/2.d743954d.chunk.js.map",
-    "index.html": "http://127.0.0.1:8887/index.html",
-    "precache-manifest.c19ba6de778c86abc9ee030252b5e9aa.js": "http://127.0.0.1:8887/precache-manifest.c19ba6de778c86abc9ee030252b5e9aa.js",
-    "service-worker.js": "http://127.0.0.1:8887/service-worker.js",
-    "static/css/main.f6a87e45.chunk.css.map": "http://127.0.0.1:8887/static/css/main.f6a87e45.chunk.css.map",
-    "static/js/2.d743954d.chunk.js.LICENSE.txt": "http://127.0.0.1:8887/static/js/2.d743954d.chunk.js.LICENSE.txt",
-    "static/media/icon-close.svg": "http://127.0.0.1:8887/static/media/icon-close.f227c489.svg",
-    "static/media/icon-loading.svg": "http://127.0.0.1:8887/static/media/icon-loading.200bc7ed.svg",
-    "static/media/wknd-logo-dk.svg": "http://127.0.0.1:8887/static/media/wknd-logo-dk.36593320.svg"
+    "main.css": "https://godanny86.github.io/aem-guides-wknd-graphql/static/css/main.f6a87e45.chunk.css",
+    "main.js": "https://godanny86.github.io/aem-guides-wknd-graphql/static/js/main.a9d02e47.chunk.js",
+    "main.js.map": "https://godanny86.github.io/aem-guides-wknd-graphql/static/js/main.a9d02e47.chunk.js.map",
+    "runtime-main.js": "https://godanny86.github.io/aem-guides-wknd-graphql/static/js/runtime-main.0b747d6b.js",
+    "runtime-main.js.map": "https://godanny86.github.io/aem-guides-wknd-graphql/static/js/runtime-main.0b747d6b.js.map",
+    "static/js/2.d743954d.chunk.js": "https://godanny86.github.io/aem-guides-wknd-graphql/static/js/2.d743954d.chunk.js",
+    "static/js/2.d743954d.chunk.js.map": "https://godanny86.github.io/aem-guides-wknd-graphql/static/js/2.d743954d.chunk.js.map",
+    "index.html": "https://godanny86.github.io/aem-guides-wknd-graphql/index.html",
+    "precache-manifest.e7aa56d741b8f641dd190e3b0ada0d34.js": "https://godanny86.github.io/aem-guides-wknd-graphql/precache-manifest.e7aa56d741b8f641dd190e3b0ada0d34.js",
+    "service-worker.js": "https://godanny86.github.io/aem-guides-wknd-graphql/service-worker.js",
+    "static/css/main.f6a87e45.chunk.css.map": "https://godanny86.github.io/aem-guides-wknd-graphql/static/css/main.f6a87e45.chunk.css.map",
+    "static/js/2.d743954d.chunk.js.LICENSE.txt": "https://godanny86.github.io/aem-guides-wknd-graphql/static/js/2.d743954d.chunk.js.LICENSE.txt",
+    "static/media/icon-close.svg": "https://godanny86.github.io/aem-guides-wknd-graphql/static/media/icon-close.f227c489.svg",
+    "static/media/icon-loading.svg": "https://godanny86.github.io/aem-guides-wknd-graphql/static/media/icon-loading.200bc7ed.svg",
+    "static/media/wknd-logo-dk.svg": "https://godanny86.github.io/aem-guides-wknd-graphql/static/media/wknd-logo-dk.36593320.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.a9f5eb71.js",
+    "static/js/runtime-main.0b747d6b.js",
     "static/js/2.d743954d.chunk.js",
     "static/css/main.f6a87e45.chunk.css",
-    "static/js/main.10c6c85c.chunk.js"
+    "static/js/main.a9d02e47.chunk.js"
   ]
 }
