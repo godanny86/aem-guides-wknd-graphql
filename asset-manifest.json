@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.ff991595.chunk.css",
-    "main.js": "/static/js/main.179fc0f4.chunk.js",
-    "main.js.map": "/static/js/main.179fc0f4.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.7433ac48.js",
-    "runtime-main.js.map": "/static/js/runtime-main.7433ac48.js.map",
-    "static/js/2.5f896c34.chunk.js": "/static/js/2.5f896c34.chunk.js",
-    "static/js/2.5f896c34.chunk.js.map": "/static/js/2.5f896c34.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.379b1dd834e7fce64b0c9a34cd30f693.js": "/precache-manifest.379b1dd834e7fce64b0c9a34cd30f693.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.ff991595.chunk.css.map": "/static/css/main.ff991595.chunk.css.map",
-    "static/js/2.5f896c34.chunk.js.LICENSE.txt": "/static/js/2.5f896c34.chunk.js.LICENSE.txt",
-    "static/media/icon-close.svg": "/static/media/icon-close.f227c489.svg",
-    "static/media/icon-loading.svg": "/static/media/icon-loading.200bc7ed.svg",
-    "static/media/wknd-logo-dk.svg": "/static/media/wknd-logo-dk.36593320.svg"
+    "main.css": "/aem-guides-wknd-graphql/static/css/main.ff991595.chunk.css",
+    "main.js": "/aem-guides-wknd-graphql/static/js/main.e91f64be.chunk.js",
+    "main.js.map": "/aem-guides-wknd-graphql/static/js/main.e91f64be.chunk.js.map",
+    "runtime-main.js": "/aem-guides-wknd-graphql/static/js/runtime-main.59f55194.js",
+    "runtime-main.js.map": "/aem-guides-wknd-graphql/static/js/runtime-main.59f55194.js.map",
+    "static/js/2.5f896c34.chunk.js": "/aem-guides-wknd-graphql/static/js/2.5f896c34.chunk.js",
+    "static/js/2.5f896c34.chunk.js.map": "/aem-guides-wknd-graphql/static/js/2.5f896c34.chunk.js.map",
+    "index.html": "/aem-guides-wknd-graphql/index.html",
+    "precache-manifest.cacb32d5822d571083d6dd665a70088f.js": "/aem-guides-wknd-graphql/precache-manifest.cacb32d5822d571083d6dd665a70088f.js",
+    "service-worker.js": "/aem-guides-wknd-graphql/service-worker.js",
+    "static/css/main.ff991595.chunk.css.map": "/aem-guides-wknd-graphql/static/css/main.ff991595.chunk.css.map",
+    "static/js/2.5f896c34.chunk.js.LICENSE.txt": "/aem-guides-wknd-graphql/static/js/2.5f896c34.chunk.js.LICENSE.txt",
+    "static/media/icon-close.svg": "/aem-guides-wknd-graphql/static/media/icon-close.f227c489.svg",
+    "static/media/icon-loading.svg": "/aem-guides-wknd-graphql/static/media/icon-loading.200bc7ed.svg",
+    "static/media/wknd-logo-dk.svg": "/aem-guides-wknd-graphql/static/media/wknd-logo-dk.36593320.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.7433ac48.js",
+    "static/js/runtime-main.59f55194.js",
     "static/js/2.5f896c34.chunk.js",
     "static/css/main.ff991595.chunk.css",
-    "static/js/main.179fc0f4.chunk.js"
+    "static/js/main.e91f64be.chunk.js"
   ]
 }
