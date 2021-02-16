@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/aem-guides-wknd-graphql/static/css/main.ff991595.chunk.css",
-    "main.js": "/aem-guides-wknd-graphql/static/js/main.e91f64be.chunk.js",
-    "main.js.map": "/aem-guides-wknd-graphql/static/js/main.e91f64be.chunk.js.map",
+    "main.js": "/aem-guides-wknd-graphql/static/js/main.1a8d6dba.chunk.js",
+    "main.js.map": "/aem-guides-wknd-graphql/static/js/main.1a8d6dba.chunk.js.map",
     "runtime-main.js": "/aem-guides-wknd-graphql/static/js/runtime-main.59f55194.js",
     "runtime-main.js.map": "/aem-guides-wknd-graphql/static/js/runtime-main.59f55194.js.map",
     "static/js/2.5f896c34.chunk.js": "/aem-guides-wknd-graphql/static/js/2.5f896c34.chunk.js",
     "static/js/2.5f896c34.chunk.js.map": "/aem-guides-wknd-graphql/static/js/2.5f896c34.chunk.js.map",
     "index.html": "/aem-guides-wknd-graphql/index.html",
-    "precache-manifest.cacb32d5822d571083d6dd665a70088f.js": "/aem-guides-wknd-graphql/precache-manifest.cacb32d5822d571083d6dd665a70088f.js",
+    "precache-manifest.34f34fc7e4c74c5f193f8c4915836381.js": "/aem-guides-wknd-graphql/precache-manifest.34f34fc7e4c74c5f193f8c4915836381.js",
     "service-worker.js": "/aem-guides-wknd-graphql/service-worker.js",
     "static/css/main.ff991595.chunk.css.map": "/aem-guides-wknd-graphql/static/css/main.ff991595.chunk.css.map",
     "static/js/2.5f896c34.chunk.js.LICENSE.txt": "/aem-guides-wknd-graphql/static/js/2.5f896c34.chunk.js.LICENSE.txt",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.59f55194.js",
     "static/js/2.5f896c34.chunk.js",
     "static/css/main.ff991595.chunk.css",
-    "static/js/main.e91f64be.chunk.js"
+    "static/js/main.1a8d6dba.chunk.js"
   ]
 }

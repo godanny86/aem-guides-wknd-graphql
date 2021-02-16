@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/aem-guides-wknd-graphql/precache-manifest.cacb32d5822d571083d6dd665a70088f.js"
+  "/aem-guides-wknd-graphql/precache-manifest.34f34fc7e4c74c5f193f8c4915836381.js"
 );
 
 self.addEventListener('message', (event) => {
