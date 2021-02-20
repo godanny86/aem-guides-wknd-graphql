@@ -16,7 +16,7 @@ const {REACT_APP_HOST_URI, REACT_APP_AUTHORIZATION } = process.env;
 
 module.exports = function(app) {
   app.use(
-    '/content',
+    ['http://localhost:4503','/content'],
     createProxyMiddleware({
       target: REACT_APP_HOST_URI,
       changeOrigin: true,

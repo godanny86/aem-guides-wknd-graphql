@@ -51,7 +51,7 @@ function AdventureItem(props) {
   return (
         <li className="adventure-item">
           <Link to={`/adventure:${props._path}`}>
-            <img className="adventure-item-image" src={props.adventurePrimaryImage._path} 
+            <img className="adventure-item-image" src={props.adventurePrimaryImage._publishUrl} 
                  alt={props.adventureTitle}/>
           </Link>
           <div className="adventure-item-length-price">
@@ -77,6 +77,7 @@ const allAdventuresQuery = `
         adventurePrimaryImage {
           ... on ImageRef {
             _path
+            _publishUrl
             mimeType
             width
             height
@@ -110,6 +111,7 @@ function filterQuery(activity) {
         adventurePrimaryImage {
           ... on ImageRef {
             _path
+            _publishUrl
             mimeType
             width
             height

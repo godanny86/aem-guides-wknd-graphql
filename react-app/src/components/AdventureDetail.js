@@ -53,7 +53,7 @@ function AdventureDetail(props) {
           </div>
           <div className="adventure-detail-content">
             <img className="adventure-detail-primaryimage"
-                 src={adventureData.adventurePrimaryImage._path} alt={adventureData.adventureTitle}/>
+                 src={adventureData.adventurePrimaryImage._publishUrl} alt={adventureData.adventureTitle}/>
             <div dangerouslySetInnerHTML={{__html: adventureData.adventureDescription.html}}></div>
             <h2>Itinerary</h2>
             <hr />
@@ -82,6 +82,7 @@ function adventureDetailQuery(_path) {
           adventurePrimaryImage {
             ... on ImageRef {
               _path
+              _publishUrl
               mimeType
               width
               height
@@ -99,6 +100,7 @@ function adventureDetailQuery(_path) {
             pictureReference {
                 ...on ImageRef {
                     _path
+                    _publishUrl
                 }
             }
         }
@@ -115,7 +117,7 @@ function Contributer(props) {
   }
   let pictureReference = null;
   if(props.pictureReference) {
-     pictureReference =  <img className="contributor-image" src={props.pictureReference._path} alt={props.fullName} />
+     pictureReference =  <img className="contributor-image" src={props.pictureReference._publishUrl} alt={props.fullName} />
   }
 
   return (
